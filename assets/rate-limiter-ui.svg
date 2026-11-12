@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="310" viewBox="0 0 640 310">
+<rect width="640" height="310" rx="20" fill="#111827" stroke="#374151"/><text x="28" y="38" fill="#f9fafb" font-family="Arial" font-size="22" font-weight="bold">LLM API GATEWAY</text><text x="28" y="65" fill="#9ca3af" font-family="Arial" font-size="13">REQUEST GOVERNANCE · REDIS ATOMICITY</text>
+<g font-family="Arial" font-size="15" text-anchor="middle"><rect x="25" y="105" width="125" height="66" rx="10" fill="#1e293b" stroke="#38bdf8"/><text x="87" y="144" fill="#e0f2fe">API CLIENT</text>
+<rect x="185" y="105" width="125" height="66" rx="10" fill="#1e293b" stroke="#a78bfa"/><text x="247" y="144" fill="#ede9fe">FASTAPI</text>
+<rect x="345" y="105" width="125" height="66" rx="10" fill="#1e293b" stroke="#fb7185"/><text x="407" y="144" fill="#ffe4e6">REDIS LUA</text>
+<rect x="505" y="105" width="110" height="66" rx="10" fill="#064e3b" stroke="#34d399"/><text x="560" y="144" fill="#d1fae5">DECISION</text></g>
+<g stroke="#94a3b8" stroke-width="2" fill="none"><path d="M150 138H185M310 138H345M470 138H505"/></g>
+<g fill="#cbd5e1" font-family="Arial" font-size="14"><text x="28" y="220">FIXED WINDOW</text><text x="178" y="220">TOKEN BUCKET</text><text x="340" y="220">SLIDING COUNTER</text><text x="510" y="220">SLIDING LOG</text></g>
+<path d="M28 242H612" stroke="#374151"/><text x="28" y="276" fill="#67e8f9" font-family="monospace" font-size="17">500 concurrent requests · 32 automated tests</text></svg>

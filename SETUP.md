@@ -1,19 +1,14 @@
-# Anand Kumar — GitHub profile README
+# Publish your profile
 
-## Install
-
-Copy the contents of this folder into the root of `anand-kumar7890/anand-kumar7890` (the profile repository), preserving the `.github` and `assets` directories.
-
-Then run:
+1. Extract this ZIP.
+2. Copy `README.md` and the complete `assets/` folder into your cloned profile repository.
+3. Keep the relative paths unchanged.
+4. Commit and push:
 
 ```powershell
 git add .
-git commit -m "Rebuild profile with custom SVG portfolio"
+git commit -m "Add personal photo and custom engineering UI"
 git push origin main
 ```
 
-## Notes
-- The README uses relative `assets/...` paths. Keep the `assets` directory in the repository root.
-- Project links are based on the repository names previously supplied. Confirm each target repository is public and the exact name is correct.
-- The MechAI Studio tile links to your profile because a dedicated public repository URL was not confirmed in the source material.
-- No fabricated GitHub contribution counts or third-party stats widgets are included.
+The hero photo is `assets/anand-hero.webp`. The README references all local SVGs using relative paths.
