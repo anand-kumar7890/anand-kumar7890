@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<rect width="1200" height="250" rx="24" fill="#F7F6F3"/>
+<rect x="0" y="0" width="16" height="250" rx="8" fill="#D97757"/>
+<circle cx="1050" cy="40" r="150" fill="#EAE7E1"/><circle cx="1120" cy="210" r="100" fill="#E9D8CF"/>
+<text x="58" y="82" font-family="Arial,sans-serif" font-size="18" letter-spacing="4" fill="#77736D">ANAND KUMAR  /  ENGINEERING PORTFOLIO</text>
+<text x="58" y="150" font-family="Arial,sans-serif" font-size="52" font-weight="700" fill="#242321">Building useful things.</text>
+<text x="60" y="194" font-family="Arial,sans-serif" font-size="23" fill="#68645E">Backend systems · Applied AI · Product-minded engineering</text>
+<rect x="58" y="213" width="210" height="5" rx="2.5" fill="#D97757"/>
+</svg>

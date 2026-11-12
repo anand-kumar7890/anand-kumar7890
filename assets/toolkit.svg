@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250">
+<rect width="1000" height="250" rx="18" fill="#F7F6F3"/>
+<g font-family="Arial"><text x="30" y="42" font-size="14" letter-spacing="2" fill="#9A7668">MY WORKING TOOLKIT</text>
+<g fill="#292724" font-size="18" font-weight="700"><text x="30" y="91">BACKEND</text><text x="30" y="146">FRONTEND</text><text x="30" y="201">AI / INFRA</text></g>
+<g fill="#68645E" font-size="18"><text x="210" y="91">Python · FastAPI · Django · REST APIs · Redis · SQL</text><text x="210" y="146">React · JavaScript · Three.js · HTML · CSS</text><text x="210" y="201">LLMs · RAG · AI Agents · Docker · AWS · Nginx · Git</text></g>
+<path d="M30 110H970M30 165H970" stroke="#E2DED7" stroke-width="2"/></g></svg>
