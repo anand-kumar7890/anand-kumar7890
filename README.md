@@ -1,157 +1,89 @@
-<div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Anand Kumar — Software Engineer, Backend Systems and Applied AI" />
-  <br/>
-  <a href="https://www.linkedin.com/in/anand-kumar-engineer/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anandkalpanasingh12345@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-EC4899?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/anand-kumar7890"><img src="https://img.shields.io/badge/GITHUB-@ANAND--KUMAR7890-20232A?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=820&lines=I+BUILD+BACKEND+SYSTEMS+THAT+HOLD+UP+UNDER+PRESSURE;I+TURN+LLM+IDEAS+INTO+WORKING+ENGINEERING+TOOLS;PYTHON+%2F+FASTAPI+%2F+REDIS+%2F+DOCKER+%2F+AI" alt="Typing intro" />
-</div>
+<a href="https://github.com/anand-kumar7890">
+  <img src="assets/hero.svg" width="100%" alt="Anand Kumar — Software Engineer | Backend Systems | Applied AI" />
+</a>
 
-<img src="assets/divider.svg" width="100%" height="12" alt="" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anand-kumar-engineer/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn" /></a>
+  <a href="mailto:anandkalpanasingh12345@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email" /></a>
+  <a href="https://github.com/anand-kumar7890"><img src="https://img.shields.io/badge/GITHUB-@ANAND--KUMAR7890-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub" /></a>
+</p>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `01 / THE ENGINEER`
-
-I'm **Anand Kumar** — a software engineer interested in the space where **backend engineering, infrastructure and applied AI** meet.
-
-I like building systems that are not just impressive in a demo, but measurable, testable and dependable in production. Recently, that has meant atomic Redis rate limiting for LLM APIs and an AI-assisted CAD workflow for mechanical engineering.
-
-**Currently building:** MechAI Studio · LLM-aware API Rate Limiter  
-**Based in:** Bengaluru, India  
-**Education:** B.E., CMR Institute of Technology · 8.76/10
-
-</td>
-<td width="38%" valign="top">
-
-<img src="assets/terminal.svg" width="100%" alt="Anand's developer terminal" />
-
-</td>
-</tr>
-</table>
-
-## `02 / WHAT I BUILD`
+<img src="assets/title-about.svg" width="100%" alt="01 About — The engineer behind the systems" />
 
 <table>
-<tr>
-<td width="50%" valign="top">
-<img src="assets/rate-limiter.svg" width="100%" alt="LLM-aware API rate limiter system illustration" />
-
-### ⚡ LLM-Aware API Rate Limiter
-`FASTAPI` `REDIS` `LUA` `DOCKER`
-
-A concurrency-safe traffic and token governance layer for LLM APIs.
-
-- Four algorithms implemented as atomic Redis Lua scripts.
-- Token reservation/refund, tiered API keys and daily spend budgets.
-- Race-tested at **500 concurrent requests**; 32 automated tests.
-- Local benchmark: ~**1.2 ms p50** limiter check.
-
-[↗ Explore the repository](https://github.com/anand-kumar7890/LLM-aware-rate-limiter) · [Live demo](https://llm-aware-rate-limiter.onrender.com/)
-</td>
-<td width="50%" valign="top">
-<img src="assets/mechai.svg" width="100%" alt="MechAI Studio text to CAD workflow illustration" />
-
-### 🏭 MechAI Studio
-`FASTAPI` `REACT` `THREE.JS` `CADQUERY` `GROQ`
-
-An industrial AI workspace connecting natural language to practical CAD workflows.
-
-- LLM-driven Text-to-CAD with CadQuery code generation.
-- Geometry validation and STEP/STL export.
-- Image-to-CAD, CAD-to-PDF and file conversion utilities.
-- JWT authentication and tests across 29 API endpoints.
-
-<sub>Active project · Details from my resume</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧗 Wall Climbing Robot
-`ARDUINO` `NODEMCU` `SOLIDWORKS`
-
-A mechanically designed wall-climbing robot using EDF-based suction adhesion, wireless control and a custom monitoring interface.
-
-[↗ Explore the repository](https://github.com/anand-kumar7890/Wall_Climbing_Robot)
-</td>
-<td width="50%" valign="top">
-
-### 📊 Customer Personality Analysis
-`PYTHON` `DATA ANALYSIS`
-
-An exploratory data analysis project focused on customer attributes, patterns and segmentation insights.
-
-[↗ Explore the repository](https://github.com/anand-kumar7890/Customer_Personality_Analysis)
-</td>
-</tr>
+  <tr>
+    <td width="62%" valign="top">
+      <h3>Hi, I'm Anand Kumar.</h3>
+      I'm a software engineer focused on the intersection of <strong>backend engineering, infrastructure and applied AI</strong>. I enjoy building systems that are measurable, testable and dependable—not just impressive in a demo.
+      <br/><br/>
+      <strong>Currently building:</strong> MechAI Studio and LLM-aware API infrastructure<br/>
+      <strong>Based in:</strong> Bengaluru, India<br/>
+      <strong>Education:</strong> B.E. Mechanical Engineering · CMR Institute of Technology · 8.76/10
+    </td>
+    <td width="38%" valign="top"><img src="assets/terminal.svg" width="100%" alt="Developer terminal illustration" /></td>
+  </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" height="12" alt="" />
+<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-work.svg" width="100%" alt="02 Selected work — Built to solve real problems" />
 
-## `03 / THE TOOLKIT`
+<a href="https://github.com/anand-kumar7890/LLM-aware-rate-limiter"><img src="assets/project-rate-limiter.svg" width="100%" alt="LLM-aware API rate limiter architecture" /></a>
+<p align="center">
+  <a href="https://github.com/anand-kumar7890/LLM-aware-rate-limiter"><img src="https://img.shields.io/badge/REPOSITORY-LLM_AWARE_RATE_LIMITER-451126?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="Rate limiter repository" /></a>
+  <a href="https://llm-aware-rate-limiter.onrender.com/"><img src="https://img.shields.io/badge/DEMO-ON_RENDER-451126?style=for-the-badge&labelColor=190B12&logo=render&logoColor=F8F0F3" alt="Rate limiter demo" /></a>
+</p>
+
+<a href="https://github.com/anand-kumar7890"><img src="assets/project-mechai.svg" width="100%" alt="MechAI Studio industrial AI platform and text-to-CAD workflow" /></a>
+<p align="center"><sub>MechAI Studio · Active project · FastAPI, React, Three.js, CadQuery, Groq, Docker and Nginx</sub></p>
 
 <table>
-<tr><td width="25%"><b>BACKEND</b></td><td>Python · FastAPI · Django · REST APIs · Redis · Nginx</td></tr>
-<tr><td><b>FRONTEND</b></td><td>React · JavaScript · Three.js · Bootstrap</td></tr>
-<tr><td><b>AI ENGINEERING</b></td><td>LLMs · Generative AI · RAG · AI Agents · Groq API</td></tr>
-<tr><td><b>INFRASTRUCTURE</b></td><td>Docker · AWS · Git · GitHub · Prometheus</td></tr>
-<tr><td><b>DATA</b></td><td>MySQL · SQLite · SQL</td></tr>
-<tr><td><b>ENGINEERING</b></td><td>CadQuery · SolidWorks · 3D CAD workflows</td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/project-robot.svg" width="100%" alt="Wall climbing robot project" />
+      <p align="center"><a href="https://github.com/anand-kumar7890/Wall_Climbing_Robot">VIEW REPOSITORY ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/project-analysis.svg" width="100%" alt="Customer personality analysis project" />
+      <p align="center"><a href="https://github.com/anand-kumar7890/Customer_Personality_Analysis">VIEW REPOSITORY ↗</a></p>
+    </td>
+  </tr>
 </table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,redis,js,react,threejs,docker,aws,mysql,nginx,git,github&theme=dark&perline=7" alt="Technology icons" />
-</div>
+<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-toolkit.svg" width="100%" alt="03 Toolkit — Engineering tools and technologies" />
+<img src="assets/tech-stack.svg" width="100%" alt="Technology stack: Python, FastAPI, Django, React, JavaScript, Three.js, Redis, Docker, AWS, MySQL, SQLite, Nginx, Git and GitHub" />
 
-## `04 / THE JOURNEY`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,react,js,threejs,redis,docker,aws,mysql,nginx,git,github&theme=dark&perline=7" alt="Technology icons" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-journey.svg" width="100%" alt="04 The journey — Experience and education" />
 
 <table>
-<tr>
-<td width="18%"><b>2024 — 2025</b></td>
-<td><b>Software Developer Intern · Weavum Technologies</b><br/>Built Django services and REST APIs; improved page-load performance by 35%, reduced API response time by 28%, and cut code redundancy by 40%.</td>
-</tr>
-<tr>
-<td><b>2023</b></td>
-<td><b>Cyber Security Intern · IBM SkillsBuild / Edunet Foundation</b><br/>Built a multithreaded Python security-monitoring project and implemented encrypted telemetry logging.</td>
-</tr>
-<tr>
-<td><b>2021 — 2025</b></td>
-<td><b>B.E. · CMR Institute of Technology, Bengaluru</b><br/>CGPA: 8.76/10 · Mechanical Engineering</td>
-</tr>
+  <tr><td width="22%"><strong>SEP 2024 — JAN 2025</strong></td><td><strong>Software Developer Intern · Weavum Technologies</strong><br/>Built Django backend services and REST APIs; improved page-load performance by 35%, reduced API response time by 28%, and reduced code redundancy by 40%.</td></tr>
+  <tr><td><strong>JUN — JUL 2023</strong></td><td><strong>Cyber Security Intern · IBM SkillsBuild / Edunet Foundation</strong><br/>Built a multithreaded Python security-monitoring project and implemented encrypted telemetry logging.</td></tr>
+  <tr><td><strong>2021 — 2025</strong></td><td><strong>B.E. Mechanical Engineering · CMR Institute of Technology</strong><br/>Bengaluru · CGPA 8.76/10</td></tr>
 </table>
 
-## `05 / BEYOND THE CODE`
+<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-recognition.svg" width="100%" alt="05 Beyond the code — Leadership and recognition" />
 
-- **President, SME Club (2024–2025):** Led technical sessions for 100+ students; organized workshops, industrial visits and project exhibitions.
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle University.
+- **CMR Leadership Award** — CMR Institute of Technology.
+- **President, SME Club (2024–2025):** Led technical sessions for 100+ students and organized workshops, industrial visits and project exhibitions.
 - **President, NSS Club (2023–2024):** Led 10+ outreach initiatives and coordinated 30+ volunteers.
-- **Oracle Cloud Infrastructure 2025 — AI Foundations Associate**, Oracle University.
-- **CMR Leadership Award**, CMR Institute of Technology.
 
-## `06 / GITHUB SIGNAL`
+<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/title-connect.svg" width="100%" alt="06 Connect — Let's build something useful" />
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anand-kumar7890&show_icons=true&hide_border=true&bg_color=0D0B16&title_color=C4B5FD&icon_color=F472B6&text_color=E9D5FF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar7890&layout=compact&hide_border=true&bg_color=0D0B16&title_color=C4B5FD&text_color=E9D5FF" alt="Top languages" />
-  <br/>
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-kumar7890&hide_border=true&background=0D0B16&ring=C4B5FD&fire=F472B6&currStreakLabel=C4B5FD&sideLabels=E9D5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" />
-  <br/>
-  <img width="96%" src="https://raw.githubusercontent.com/anand-kumar7890/anand-kumar7890/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anand-kumar-engineer/">LINKEDIN</a> ·
+  <a href="https://leetcode.com/u/ak_world_7890/">LEETCODE</a> ·
+  <a href="https://codeforces.com/profile/anand-kumar7890">CODEFORCES</a> ·
+  <a href="mailto:anandkalpanasingh12345@gmail.com">EMAIL</a>
+</p>
 
-## `07 / FIND ME`
-
-<div align="center">
-
-**Have a backend, platform engineering or applied AI problem worth solving? Let's talk.**
-
-[LinkedIn](https://www.linkedin.com/in/anand-kumar-engineer/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/ak_world_7890/) &nbsp;·&nbsp; [Codeforces](https://codeforces.com/profile/anand-kumar7890) &nbsp;·&nbsp; [Email](mailto:anandkalpanasingh12345@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=anand-kumar7890&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
-
-<sub>ENGINEERED WITH CURIOSITY · BUILT WITH INTENT</sub>
-
-</div>
+<p align="center"><sub>ENGINEERED WITH CURIOSITY · BUILT WITH INTENT</sub></p>
