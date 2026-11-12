@@ -1,0 +1,29 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/><stop offset="0.55" stop-color="#111C2D"/><stop offset="1" stop-color="#102A2B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="130" y1="100" x2="1000" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#56D6C9"/><stop offset="1" stop-color="#76A9FA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#8CA3B8" stroke-opacity=".10" stroke-width="1"/></pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="100" r="125" fill="#56D6C9" fill-opacity=".12" filter="url(#glow)"/>
+  <circle cx="1080" cy="270" r="110" fill="#76A9FA" fill-opacity=".10" filter="url(#glow)"/>
+  <path d="M880 0L1200 0L1200 360L1020 360C1100 260 930 180 880 0Z" fill="#56D6C9" fill-opacity=".035"/>
+  <g opacity=".65" stroke="url(#accent)" stroke-width="1.5">
+    <path d="M900 82H1060L1120 142V245H980L920 185V82Z"/>
+    <path d="M940 112H1048L1090 154V214H992L958 180V112Z" stroke-opacity=".55"/>
+    <circle cx="900" cy="82" r="5" fill="#56D6C9"/><circle cx="1120" cy="142" r="5" fill="#76A9FA"/><circle cx="980" cy="245" r="5" fill="#56D6C9"/>
+    <path d="M1060 82V35M1120 142H1168M920 185H870" stroke-dasharray="4 6"/>
+  </g>
+  <text x="82" y="93" fill="#56D6C9" font-family="monospace" font-size="17" letter-spacing="5">SOFTWARE ENGINEER  /  APPLIED AI</text>
+  <text x="78" y="178" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">ANAND KUMAR</text>
+  <rect x="82" y="207" width="82" height="4" rx="2" fill="url(#accent)"/>
+  <text x="82" y="253" fill="#C9D1D9" font-family="Arial, Helvetica, sans-serif" font-size="23">Building reliable backends &amp; intelligent systems.</text>
+  <text x="82" y="303" fill="#8B949E" font-family="monospace" font-size="15">PYTHON  ·  FASTAPI  ·  REDIS  ·  DOCKER  ·  LLMs</text>
+  <text x="1120" y="325" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="12">BENGALURU, INDIA</text>
+</svg>
